@@ -1,2 +1,2 @@
-# Data-science-prjoect
+# Data-science-project
 Jupyter
